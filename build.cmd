@@ -1,0 +1,1 @@
+set "INCLUDE=%FASM_DIR%\INCLUDE" && %FASM_DIR%\FASM.EXE "src/RemoveUSKeyboardLayout.asm" "RemoveUSKeyboardLayout.exe"
